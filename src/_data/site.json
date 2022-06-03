@@ -1,9 +1,9 @@
 {
-  "baseURL": "https://hello.world",
-  "author": "hello.world",
-  "description": "hello.world - Venture Capital",
-  "title": "hello.world - Venture Capital",
-  "language": "en",
+  "baseURL": "https://pcollin.fr",
+  "author": "Paul Collin",
+  "description": "Paul Collin's personal website",
+  "title": "Paul Collin",
+  "language": "fr",
   "social": [
     {
       "title": "Twitter",

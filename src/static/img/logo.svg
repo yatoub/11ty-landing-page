@@ -1,8 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 480 480" width="480px" height="480px">
-<g id="surface14077270">
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(82.352942%,73.725492%,97.254902%);fill-opacity:1;" d="M 305 310 C 231 310 170 249 170 175 C 170 101 231 40 305 40 C 379 40 440 101 440 175 C 440 249 379 310 305 310 Z M 305 80 C 253 80 210 123 210 175 C 210 227 253 270 305 270 C 357 270 400 227 400 175 C 400 123 357 80 305 80 Z M 305 80 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(65.490198%,48.235294%,94.901961%);fill-opacity:1;" d="M 370 245 C 370 320 310 380 235 380 C 160 380 100 320 100 245 C 100 170 160 110 235 110 C 310 110 370 170 370 245 Z M 370 245 "/>
-<path style=" stroke:none;fill-rule:nonzero;fill:rgb(48.627451%,22.745098%,92.941177%);fill-opacity:1;" d="M 310 305 C 310 380 250 440 175 440 C 100 440 40 380 40 305 C 40 230 100 170 175 170 C 250 170 310 230 310 305 Z M 310 305 "/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<g>
+	<polygon fill="#020202" points="66.666,36.67 61.953,41.383 70.572,50.003 61.95,58.623 66.663,63.336 80,50.003 	"/>
+	<polygon fill="#020202" points="33.333,63.336 38.047,58.623 29.427,50.003 38.05,41.383 33.336,36.67 20,50.003 	"/>
+	
+		<rect x="19.836" y="46.667" transform="matrix(0.2588 -0.9659 0.9659 0.2588 -11.2367 85.3574)" fill="#00B8D4" width="60.328" height="6.667"/>
 </g>
 </svg>
